@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>89251823040-roa262gcilvr905ug5558vdq0p0n4umv.apps.googleusercontent.com</string>
+	<string>275740765052-ldvqca30ajke9fpgfo2i3cr1helpkgvi.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.89251823040-roa262gcilvr905ug5558vdq0p0n4umv</string>
+	<string>com.googleusercontent.apps.275740765052-ldvqca30ajke9fpgfo2i3cr1helpkgvi</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBobTBUxfcSLf7pX1N9c0z3qlqtK3tpjSE</string>
+	<string>AIzaSyD165GldGm35e1h8U8c0nB_TsTphm1VVlo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>89251823040</string>
+	<string>275740765052</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>ca.jgchoi.EZShopManager</string>
+	<string>cv.amazon.go.manager</string>
 	<key>PROJECT_ID</key>
-	<string>hackvalley-5be01</string>
+	<string>cvamazongo</string>
 	<key>STORAGE_BUCKET</key>
-	<string>hackvalley-5be01.appspot.com</string>
+	<string>cvamazongo.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -35,6 +35,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:89251823040:ios:656a0064b1cd1b42</string>
 	<key>DATABASE_URL</key>
-	<string>https://hackvalley-5be01.firebaseio.com</string>
+	<string>https://cv-amzn-go.firebaseio.com/</string>
 </dict>
 </plist>

@@ -13,8 +13,8 @@ import FirebaseStorage
 
 
 struct KairosConfig {
-	static let app_id = "4724eb0e"
-	static let app_key = "f5795e224117ac3393343c6bc14c841b"
+	static let app_id = "6f864ad5"
+	static let app_key = "67c443f9608fb5380e7fe93b25702da5"
 }
 
 class EnrollViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate, CLFaceDetectionImagePickerDelegate {
